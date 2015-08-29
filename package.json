@@ -1,0 +1,19 @@
+{
+  "name": "slap",
+  "version": "1.0.0",
+  "description": "slap slack users for being naughty",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.x.x",
+    "body-parser": "^1.x.x"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "slack",
+    "slap"
+  ],
+  "author": "KyleMassacre",
+  "license": "ISC"
+}
